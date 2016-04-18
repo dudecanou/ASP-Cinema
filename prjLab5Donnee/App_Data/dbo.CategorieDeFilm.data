@@ -1,0 +1,12 @@
+﻿SET IDENTITY_INSERT [dbo].[CategorieDeFilm] ON
+INSERT INTO [dbo].[CategorieDeFilm] ([Id], [Nom]) VALUES (1, N'Action                        ')
+INSERT INTO [dbo].[CategorieDeFilm] ([Id], [Nom]) VALUES (2, N'Aventure                      ')
+INSERT INTO [dbo].[CategorieDeFilm] ([Id], [Nom]) VALUES (3, N'Animation                     ')
+INSERT INTO [dbo].[CategorieDeFilm] ([Id], [Nom]) VALUES (4, N'Biography                     ')
+INSERT INTO [dbo].[CategorieDeFilm] ([Id], [Nom]) VALUES (5, N'Comedy                        ')
+INSERT INTO [dbo].[CategorieDeFilm] ([Id], [Nom]) VALUES (6, N'Crime                         ')
+INSERT INTO [dbo].[CategorieDeFilm] ([Id], [Nom]) VALUES (7, N'Documentary                   ')
+INSERT INTO [dbo].[CategorieDeFilm] ([Id], [Nom]) VALUES (8, N'Drama                         ')
+INSERT INTO [dbo].[CategorieDeFilm] ([Id], [Nom]) VALUES (9, N'Family                        ')
+INSERT INTO [dbo].[CategorieDeFilm] ([Id], [Nom]) VALUES (10, N'Fantasy                       ')
+SET IDENTITY_INSERT [dbo].[CategorieDeFilm] OFF

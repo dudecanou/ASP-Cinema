@@ -1,0 +1,105 @@
+c:\users\aymeric\documents\visual studio 2015\Projects\prjLab5Donnee\prjLab5Donnee\bin\roslyn\csc.exe
+c:\users\aymeric\documents\visual studio 2015\Projects\prjLab5Donnee\prjLab5Donnee\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\aymeric\documents\visual studio 2015\Projects\prjLab5Donnee\prjLab5Donnee\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\aymeric\documents\visual studio 2015\Projects\prjLab5Donnee\prjLab5Donnee\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\aymeric\documents\visual studio 2015\Projects\prjLab5Donnee\prjLab5Donnee\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\aymeric\documents\visual studio 2015\Projects\prjLab5Donnee\prjLab5Donnee\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\aymeric\documents\visual studio 2015\Projects\prjLab5Donnee\prjLab5Donnee\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\aymeric\documents\visual studio 2015\Projects\prjLab5Donnee\prjLab5Donnee\bin\roslyn\System.Collections.Immutable.dll
+c:\users\aymeric\documents\visual studio 2015\Projects\prjLab5Donnee\prjLab5Donnee\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\aymeric\documents\visual studio 2015\Projects\prjLab5Donnee\prjLab5Donnee\bin\roslyn\vbc.exe
+c:\users\aymeric\documents\visual studio 2015\Projects\prjLab5Donnee\prjLab5Donnee\bin\roslyn\VBCSCompiler.exe
+c:\users\aymeric\documents\visual studio 2015\Projects\prjLab5Donnee\prjLab5Donnee\bin\roslyn\VBCSCompiler.exe.config
+c:\users\aymeric\documents\visual studio 2015\Projects\prjLab5Donnee\prjLab5Donnee\bin\prjLab5Donnee.dll.config
+c:\users\aymeric\documents\visual studio 2015\Projects\prjLab5Donnee\prjLab5Donnee\bin\prjLab5Donnee.dll
+c:\users\aymeric\documents\visual studio 2015\Projects\prjLab5Donnee\prjLab5Donnee\bin\prjLab5Donnee.pdb
+c:\users\aymeric\documents\visual studio 2015\Projects\prjLab5Donnee\prjLab5Donnee\bin\Antlr3.Runtime.dll
+c:\users\aymeric\documents\visual studio 2015\Projects\prjLab5Donnee\prjLab5Donnee\bin\AspNet.ScriptManager.bootstrap.dll
+c:\users\aymeric\documents\visual studio 2015\Projects\prjLab5Donnee\prjLab5Donnee\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\aymeric\documents\visual studio 2015\Projects\prjLab5Donnee\prjLab5Donnee\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\aymeric\documents\visual studio 2015\Projects\prjLab5Donnee\prjLab5Donnee\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\aymeric\documents\visual studio 2015\Projects\prjLab5Donnee\prjLab5Donnee\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\aymeric\documents\visual studio 2015\Projects\prjLab5Donnee\prjLab5Donnee\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\aymeric\documents\visual studio 2015\Projects\prjLab5Donnee\prjLab5Donnee\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\aymeric\documents\visual studio 2015\Projects\prjLab5Donnee\prjLab5Donnee\bin\Microsoft.Web.Infrastructure.dll
+c:\users\aymeric\documents\visual studio 2015\Projects\prjLab5Donnee\prjLab5Donnee\bin\Newtonsoft.Json.dll
+c:\users\aymeric\documents\visual studio 2015\Projects\prjLab5Donnee\prjLab5Donnee\bin\System.Web.Optimization.dll
+c:\users\aymeric\documents\visual studio 2015\Projects\prjLab5Donnee\prjLab5Donnee\bin\WebGrease.dll
+c:\users\aymeric\documents\visual studio 2015\Projects\prjLab5Donnee\prjLab5Donnee\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\aymeric\documents\visual studio 2015\Projects\prjLab5Donnee\prjLab5Donnee\bin\System.Web.Optimization.xml
+c:\users\aymeric\documents\visual studio 2015\Projects\prjLab5Donnee\prjLab5Donnee\bin\Antlr3.Runtime.pdb
+c:\users\aymeric\documents\visual studio 2015\Projects\prjLab5Donnee\prjLab5Donnee\bin\Newtonsoft.Json.xml
+c:\users\aymeric\documents\visual studio 2015\Projects\prjLab5Donnee\prjLab5Donnee\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\aymeric\documents\visual studio 2015\Projects\prjLab5Donnee\prjLab5Donnee\obj\Debug\prjLab5Donnee.csprojResolveAssemblyReference.cache
+c:\users\aymeric\documents\visual studio 2015\Projects\prjLab5Donnee\prjLab5Donnee\obj\Debug\prjLab5Donnee.dll
+c:\users\aymeric\documents\visual studio 2015\Projects\prjLab5Donnee\prjLab5Donnee\obj\Debug\prjLab5Donnee.pdb
+C:\Users\aymeric\Documents\Visual Studio 2015\Projects\prjLab5Donnee - Copie\prjLab5Donnee\bin\roslyn\csc.exe
+C:\Users\aymeric\Documents\Visual Studio 2015\Projects\prjLab5Donnee - Copie\prjLab5Donnee\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\aymeric\Documents\Visual Studio 2015\Projects\prjLab5Donnee - Copie\prjLab5Donnee\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\aymeric\Documents\Visual Studio 2015\Projects\prjLab5Donnee - Copie\prjLab5Donnee\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\aymeric\Documents\Visual Studio 2015\Projects\prjLab5Donnee - Copie\prjLab5Donnee\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\aymeric\Documents\Visual Studio 2015\Projects\prjLab5Donnee - Copie\prjLab5Donnee\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\aymeric\Documents\Visual Studio 2015\Projects\prjLab5Donnee - Copie\prjLab5Donnee\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\aymeric\Documents\Visual Studio 2015\Projects\prjLab5Donnee - Copie\prjLab5Donnee\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\aymeric\Documents\Visual Studio 2015\Projects\prjLab5Donnee - Copie\prjLab5Donnee\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\aymeric\Documents\Visual Studio 2015\Projects\prjLab5Donnee - Copie\prjLab5Donnee\bin\roslyn\vbc.exe
+C:\Users\aymeric\Documents\Visual Studio 2015\Projects\prjLab5Donnee - Copie\prjLab5Donnee\bin\roslyn\VBCSCompiler.exe
+C:\Users\aymeric\Documents\Visual Studio 2015\Projects\prjLab5Donnee - Copie\prjLab5Donnee\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\aymeric\Documents\Visual Studio 2015\Projects\prjLab5Donnee - Copie\prjLab5Donnee\bin\prjLab5Donnee.dll.config
+C:\Users\aymeric\Documents\Visual Studio 2015\Projects\prjLab5Donnee - Copie\prjLab5Donnee\bin\prjLab5Donnee.dll
+C:\Users\aymeric\Documents\Visual Studio 2015\Projects\prjLab5Donnee - Copie\prjLab5Donnee\bin\prjLab5Donnee.pdb
+C:\Users\aymeric\Documents\Visual Studio 2015\Projects\prjLab5Donnee - Copie\prjLab5Donnee\bin\Antlr3.Runtime.dll
+C:\Users\aymeric\Documents\Visual Studio 2015\Projects\prjLab5Donnee - Copie\prjLab5Donnee\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\aymeric\Documents\Visual Studio 2015\Projects\prjLab5Donnee - Copie\prjLab5Donnee\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\aymeric\Documents\Visual Studio 2015\Projects\prjLab5Donnee - Copie\prjLab5Donnee\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\aymeric\Documents\Visual Studio 2015\Projects\prjLab5Donnee - Copie\prjLab5Donnee\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\aymeric\Documents\Visual Studio 2015\Projects\prjLab5Donnee - Copie\prjLab5Donnee\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\aymeric\Documents\Visual Studio 2015\Projects\prjLab5Donnee - Copie\prjLab5Donnee\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\aymeric\Documents\Visual Studio 2015\Projects\prjLab5Donnee - Copie\prjLab5Donnee\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\aymeric\Documents\Visual Studio 2015\Projects\prjLab5Donnee - Copie\prjLab5Donnee\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\aymeric\Documents\Visual Studio 2015\Projects\prjLab5Donnee - Copie\prjLab5Donnee\bin\Newtonsoft.Json.dll
+C:\Users\aymeric\Documents\Visual Studio 2015\Projects\prjLab5Donnee - Copie\prjLab5Donnee\bin\System.Web.Optimization.dll
+C:\Users\aymeric\Documents\Visual Studio 2015\Projects\prjLab5Donnee - Copie\prjLab5Donnee\bin\WebGrease.dll
+C:\Users\aymeric\Documents\Visual Studio 2015\Projects\prjLab5Donnee - Copie\prjLab5Donnee\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\aymeric\Documents\Visual Studio 2015\Projects\prjLab5Donnee - Copie\prjLab5Donnee\bin\System.Web.Optimization.xml
+C:\Users\aymeric\Documents\Visual Studio 2015\Projects\prjLab5Donnee - Copie\prjLab5Donnee\bin\Antlr3.Runtime.pdb
+C:\Users\aymeric\Documents\Visual Studio 2015\Projects\prjLab5Donnee - Copie\prjLab5Donnee\bin\Newtonsoft.Json.xml
+C:\Users\aymeric\Documents\Visual Studio 2015\Projects\prjLab5Donnee - Copie\prjLab5Donnee\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\aymeric\Documents\Visual Studio 2015\Projects\prjLab5Donnee - Copie\prjLab5Donnee\obj\Debug\prjLab5Donnee.csprojResolveAssemblyReference.cache
+C:\Users\aymeric\Documents\Visual Studio 2015\Projects\prjLab5Donnee - Copie\prjLab5Donnee\obj\Debug\prjLab5Donnee.dll
+C:\Users\aymeric\Documents\Visual Studio 2015\Projects\prjLab5Donnee - Copie\prjLab5Donnee\obj\Debug\prjLab5Donnee.pdb
+C:\Users\aymeric\Documents\Visual Studio 2015\Projects\Mi-Session 2\prjLab5Donnee\bin\roslyn\csc.exe
+C:\Users\aymeric\Documents\Visual Studio 2015\Projects\Mi-Session 2\prjLab5Donnee\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\aymeric\Documents\Visual Studio 2015\Projects\Mi-Session 2\prjLab5Donnee\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\aymeric\Documents\Visual Studio 2015\Projects\Mi-Session 2\prjLab5Donnee\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\aymeric\Documents\Visual Studio 2015\Projects\Mi-Session 2\prjLab5Donnee\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\aymeric\Documents\Visual Studio 2015\Projects\Mi-Session 2\prjLab5Donnee\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\aymeric\Documents\Visual Studio 2015\Projects\Mi-Session 2\prjLab5Donnee\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\aymeric\Documents\Visual Studio 2015\Projects\Mi-Session 2\prjLab5Donnee\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\aymeric\Documents\Visual Studio 2015\Projects\Mi-Session 2\prjLab5Donnee\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\aymeric\Documents\Visual Studio 2015\Projects\Mi-Session 2\prjLab5Donnee\bin\roslyn\vbc.exe
+C:\Users\aymeric\Documents\Visual Studio 2015\Projects\Mi-Session 2\prjLab5Donnee\bin\roslyn\VBCSCompiler.exe
+C:\Users\aymeric\Documents\Visual Studio 2015\Projects\Mi-Session 2\prjLab5Donnee\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\aymeric\Documents\Visual Studio 2015\Projects\Mi-Session 2\prjLab5Donnee\bin\prjLab5Donnee.dll.config
+C:\Users\aymeric\Documents\Visual Studio 2015\Projects\Mi-Session 2\prjLab5Donnee\bin\prjLab5Donnee.dll
+C:\Users\aymeric\Documents\Visual Studio 2015\Projects\Mi-Session 2\prjLab5Donnee\bin\prjLab5Donnee.pdb
+C:\Users\aymeric\Documents\Visual Studio 2015\Projects\Mi-Session 2\prjLab5Donnee\bin\Antlr3.Runtime.dll
+C:\Users\aymeric\Documents\Visual Studio 2015\Projects\Mi-Session 2\prjLab5Donnee\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\aymeric\Documents\Visual Studio 2015\Projects\Mi-Session 2\prjLab5Donnee\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\aymeric\Documents\Visual Studio 2015\Projects\Mi-Session 2\prjLab5Donnee\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\aymeric\Documents\Visual Studio 2015\Projects\Mi-Session 2\prjLab5Donnee\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\aymeric\Documents\Visual Studio 2015\Projects\Mi-Session 2\prjLab5Donnee\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\aymeric\Documents\Visual Studio 2015\Projects\Mi-Session 2\prjLab5Donnee\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\aymeric\Documents\Visual Studio 2015\Projects\Mi-Session 2\prjLab5Donnee\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\aymeric\Documents\Visual Studio 2015\Projects\Mi-Session 2\prjLab5Donnee\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\aymeric\Documents\Visual Studio 2015\Projects\Mi-Session 2\prjLab5Donnee\bin\Newtonsoft.Json.dll
+C:\Users\aymeric\Documents\Visual Studio 2015\Projects\Mi-Session 2\prjLab5Donnee\bin\System.Web.Optimization.dll
+C:\Users\aymeric\Documents\Visual Studio 2015\Projects\Mi-Session 2\prjLab5Donnee\bin\WebGrease.dll
+C:\Users\aymeric\Documents\Visual Studio 2015\Projects\Mi-Session 2\prjLab5Donnee\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\aymeric\Documents\Visual Studio 2015\Projects\Mi-Session 2\prjLab5Donnee\bin\System.Web.Optimization.xml
+C:\Users\aymeric\Documents\Visual Studio 2015\Projects\Mi-Session 2\prjLab5Donnee\bin\Antlr3.Runtime.pdb
+C:\Users\aymeric\Documents\Visual Studio 2015\Projects\Mi-Session 2\prjLab5Donnee\bin\Newtonsoft.Json.xml
+C:\Users\aymeric\Documents\Visual Studio 2015\Projects\Mi-Session 2\prjLab5Donnee\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\aymeric\Documents\Visual Studio 2015\Projects\Mi-Session 2\prjLab5Donnee\obj\Debug\prjLab5Donnee.csprojResolveAssemblyReference.cache
+C:\Users\aymeric\Documents\Visual Studio 2015\Projects\Mi-Session 2\prjLab5Donnee\obj\Debug\prjLab5Donnee.dll
+C:\Users\aymeric\Documents\Visual Studio 2015\Projects\Mi-Session 2\prjLab5Donnee\obj\Debug\prjLab5Donnee.pdb
